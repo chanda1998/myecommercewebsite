@@ -1,4 +1,4 @@
-.gitignore
+.gitIgnore
 procfile
 README.md
 package-lock.json
